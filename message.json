@@ -1,4 +1,5 @@
 [
   { "id": "news-001", "title": "ModelFlow news", "message": "Welcome to version 1.0.0.3", "persistent": true },
-  { "id": "news-002", "title": "ModelFlow news", "message": "Thank you for using my app", "persistent": true  }
+  { "id": "news-002", "title": "ModelFlow news", "message": "Thank you for using my app", "persistent": true  },
+  { "id": "news-002", "title": "ModelFlow news", "message": "Thank you for using the app", "persistent": true  }
 ]
