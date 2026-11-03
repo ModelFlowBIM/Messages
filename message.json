@@ -1,14 +1,8 @@
 [
   {
-    "id": "news-003",
-    "title": "ModelFlow news",
-    "message": "Thank you for using the app",
-    "persistent": true
-  },
-  {
-    "id": "00000002",
-    "title": "test1",
-    "message": "test123",
+    "id": "00000003",
+    "title": "Welcome User",
+    "message": "Thank you for trusting in Modelflow.",
     "persistent": false
   }
 ]
