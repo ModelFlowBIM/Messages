@@ -6,9 +6,9 @@
     "persistent": true
   },
   {
-    "id": "00000001",
-    "title": "Test Title",
-    "message": "\uD83C\uDF89\uD83C\uDF89Test Message\uD83C\uDF89\uD83C\uDF89",
-    "persistent": true
+    "id": "00000002",
+    "title": "test1",
+    "message": "test123",
+    "persistent": false
   }
 ]
